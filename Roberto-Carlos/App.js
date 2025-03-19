@@ -18,7 +18,7 @@ export default function App() {
 
   // Função de alerta
   function alerta() {
-    Alert.alert("Gol do Jogador/Time!");
+    Alert.alert("Gol do Roberto Carlos/fRAMEEEENGO!");
   }
 
   // retorno com JSX
