@@ -93,6 +93,8 @@ const styles = StyleSheet.create({
   },
   textInfo: {
     fontSize: 18,
+
+    
     color: '#666',
     marginBottom: 5,
   },
